@@ -1,1 +1,3 @@
-# Lab 2 - Starter
+# Pomodoro Meeting Minutes
+
+https://zaynashraf.github.io/pomodoro-meeting-minutes/
